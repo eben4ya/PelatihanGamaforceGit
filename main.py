@@ -1,0 +1,1 @@
+text = "Halo ini Benaya"
